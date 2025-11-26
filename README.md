@@ -32,6 +32,7 @@ I found that hot glue adheres very well to PLA.  So I used hot glue to affix the
 
 * QMX with feet.  In version 0.1, it is assumed that the rubber feet have not been installed on the QMX.  Since many people do install the feet, it would be nice to have an alternate design to accommodate the feet.
 * Shrink it.  In version 0.1, the appendage is  bigger than the QMX itself (it is closer to the QMX+ in size).  This is due to the large battery pack.  Smaller battery packs can last through a SOTA activation.  Using a smaller battery pack could really shrink the design.
+* Power on LED.  Since the audio amp and touch keyer draw a small amount of current it would be helpful to have an exposed LED to indicate when the main switch is turned on.
 * Movable plugs.  In version 0.1, the plugs are rigidly fixed in position.  An arrangement that allows the plugs to move side-to-side and up-and-down would relieve stress on the QMX jacks.
 * Add charging port.  There is easily room in the box for a BMS. And the BMS will need an additional jack for charging.
 * Change the power button.  It's too easy to accidentally engage the power button in a backpack.  Either a button cover is needed or a different switch
